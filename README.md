@@ -1,6 +1,6 @@
 👋 Hi, I’m @Galacsh
 
-[Visit my blog](https://galacsh.github.io)
+[Visit my blog](https://galacsh.io)
 
 <!---
 Galacsh/Galacsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
